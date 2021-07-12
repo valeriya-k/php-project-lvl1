@@ -1,0 +1,15 @@
+{
+    "name": "hexlet/code",
+    "authors": [
+        {
+            "name": "valeriya-k",
+            "email": "valeria.pochta@list.ru"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "files": [
+            "bin/brain-games.php"
+        ]
+    }
+}
